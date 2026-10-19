@@ -1,0 +1,14 @@
+
+# Dataset and plaintext email data
+data/raw/
+data/sample/
+data/processed/
+
+# Encrypted data and sensitive keys
+data/encrypted_emails/
+data/secure_index/
+data/scalability/
+
+# Python-generated files
+__pycache__/
+*.pyc
